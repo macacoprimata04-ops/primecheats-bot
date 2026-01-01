@@ -28,3 +28,4 @@ client.once("ready", () => {
 
 // 🔐 Token vem do Render (NUNCA coloque token aqui)
 client.login(process.env.DISCORD_TOKEN);
+/clear
